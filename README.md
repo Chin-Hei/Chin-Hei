@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Chin-Hei
-- 👀 I’m interested in Java, C++, Swift
-- 🌱 I’m currently learning SwiftUI, AR/VR Technologies
+- 👀 I’m interested in iOS Development
+- 🌱 I’m currently learning Swift
 - 💞️ I’m looking to collaborate on interesting software projects!
 - 📫 How to reach me: williamcheung965@gmail.com
 
