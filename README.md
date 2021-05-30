@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Chin-Hei
-- 👀 I’m interested in iOS Development
+- 👀 I’m interested in iOS dev
 - 🌱 I’m currently learning Swift
 - 💞️ I’m looking to collaborate on interesting software projects!
 - 📫 How to reach me: williamcheung965@gmail.com
