@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Chin-Hei
-- 👀 I’m interested in iOS dev
-- 🌱 I’m currently learning Swift
+- 👀 As of right now, I'm creating native apps and web apps
+- 🌱 I’m currently learning Swift, React Native
 - 💞️ I’m looking to collaborate on interesting software projects!
 - 📫 How to reach me: williamcheung965@gmail.com
 
